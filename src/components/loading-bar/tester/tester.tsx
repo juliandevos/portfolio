@@ -1,4 +1,4 @@
-import React, {FC, useEffect, useState} from "react";
+import React, { useEffect, useState} from "react";
 import Loader from "../loader/loader";
 
 const Tester = () => {
@@ -18,7 +18,7 @@ const Tester = () => {
     }, [progress])
 
     return (
-        <Loader progress={progress} message="hoi"/>
+        <Loader progress={progress}/>
     )
 }
 

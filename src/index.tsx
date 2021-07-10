@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import RedirectPage from './pages/redirect-page/redirect-page';
+import LandingPage from './pages/landing-page/landing-page';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <RedirectPage />
+    <LandingPage />
   </React.StrictMode>,
   document.getElementById('root')
 );

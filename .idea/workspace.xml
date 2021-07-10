@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a6c5e49-33b1-494f-804c-84ac78bf4e8b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/loading-bar/loader/loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/loading-bar/loader/loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/loading-bar/loader/loader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/loading-bar/loader/loader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/loading-bar/tester/tester.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/loading-bar/tester/tester.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/redirect-page/redirect-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/landing-page/landing-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/redirect-page/redirect-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/landing-page/landing-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="CSS File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -76,6 +83,7 @@
       <updated>1625577854728</updated>
       <workItem from="1625577858191" duration="365000" />
       <workItem from="1625578238594" duration="3183000" />
+      <workItem from="1625930076190" duration="6630000" />
     </task>
     <servers />
   </component>
@@ -92,5 +100,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
