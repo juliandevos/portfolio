@@ -7,13 +7,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+p{
+  margin: 0;
 }
 
 :root{
   --color-primary: #09192F;
   --color-secundary: #64FFDA;
   --text-color-primary: #a8b2d1;
+  --font-mono: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;
 }

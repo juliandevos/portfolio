@@ -1,0 +1,22 @@
+
+.nav-bar-number{
+    color: var(--color-secundary);
+    font-family: var(--font-mono);
+    float: right;
+    margin-top: 4rem;
+    margin-right: 5px;
+    font-size: 14px;
+
+}
+
+.nav-bar-text{
+    color: var(--text-color-primary);
+    text-decoration: none;
+    font-family: var(--font-mono);
+    float: right;
+    margin-top: 4rem;
+    margin-right: 40px;
+    font-size: 14px;
+}
+
+

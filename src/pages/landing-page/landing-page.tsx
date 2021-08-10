@@ -1,11 +1,11 @@
 import React, {FC} from 'react';
 import './landing-page.css';
-import Tester from "../../components/loading-bar/tester/tester";
+import NavBar from "../../components/nav-bar/nav-bar";
 
 export const LandingPage: FC = (): JSX.Element => {
   return (
  <div className="lp-container">
-     <Tester/>
+     <NavBar/>
  </div>
   )
 }
