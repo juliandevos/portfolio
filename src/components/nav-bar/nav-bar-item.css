@@ -3,10 +3,14 @@
     color: var(--color-secundary);
     font-family: var(--font-mono);
     float: right;
-    margin-top: 4rem;
-    margin-right: 5px;
+    margin-top: 2.5rem;
     font-size: 14px;
+    margin-right: 0.2rem;
 
+}
+
+.nav-bar-number:hover{
+    cursor: pointer;
 }
 
 .nav-bar-text{
@@ -14,8 +18,8 @@
     text-decoration: none;
     font-family: var(--font-mono);
     float: right;
-    margin-top: 4rem;
-    margin-right: 40px;
+    margin-top: 2.5rem;
+    margin-right: 1.7rem;
     font-size: 14px;
 }
 

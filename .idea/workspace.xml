@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a6c5e49-33b1-494f-804c-84ac78bf4e8b" name="Default Changelist" comment="made progress in landing page">
+    <list default="true" id="9a6c5e49-33b1-494f-804c-84ac78bf4e8b" name="Default Changelist" comment="deleted landing page and started working on nav bar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/loading-bar/loader/loader.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/loading-bar/loader/loader.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/loading-bar/tester/tester.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/loading-bar/tester/tester.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/text-loop/text-loop.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/nav-bar/nav-bar-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/nav-bar/nav-bar-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/nav-bar/nav-bar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/nav-bar/nav-bar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/nav-bar/nav-bar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/nav-bar/nav-bar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/landing-page/landing-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/landing-page/landing-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +49,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/components/loading-bar/loader" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/pages/redirect-page" />
       <recent name="$PROJECT_DIR$/src/env" />
-      <recent name="$PROJECT_DIR$/src/assets" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -83,7 +83,11 @@
       <workItem from="1625578238594" duration="3183000" />
       <workItem from="1625930076190" duration="6947000" />
       <workItem from="1610307419066" duration="1000" />
-      <workItem from="1628626524215" duration="7471000" />
+      <workItem from="1628626524215" duration="14108000" />
+      <workItem from="1628719789819" duration="38000" />
+      <workItem from="1628719935443" duration="39000" />
+      <workItem from="1628719982975" duration="29000" />
+      <workItem from="1628720020529" duration="4276000" />
     </task>
     <task id="LOCAL-00001" summary="made progress in landing page">
       <created>1625937796018</created>
@@ -92,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625937796018</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="deleted landing page and started working on nav bar">
+      <created>1628635159127</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628635159127</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="made progress in landing page" />
-    <option name="LAST_COMMIT_MESSAGE" value="made progress in landing page" />
+    <MESSAGE value="deleted landing page and started working on nav bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted landing page and started working on nav bar" />
   </component>
 </project>

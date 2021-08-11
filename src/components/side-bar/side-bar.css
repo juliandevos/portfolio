@@ -1,0 +1,56 @@
+.side-bar-text{
+    transform: rotate(-90deg);
+    position: absolute;
+    bottom:13.5rem;
+    right: -1.8rem;
+    color: var(--text-color-primary);
+    font-family: var(--font-mono);
+    font-size: 14px;
+}
+
+.side-bar-text:hover{
+    color: var(--color-secundary);
+    cursor: pointer;
+}
+
+.side-bar-line-right{
+    width: 10px;
+    height: 5.5rem;
+
+    border-right: 1px solid var(--text-color-primary);
+    position: absolute;
+    bottom: 0;
+    right: 4.5rem;
+}
+
+.side-bar-line-left{
+    width: 10px;
+    height: 5.5rem;
+    border-right: 1px solid var(--text-color-primary);
+    position: absolute;
+    bottom: 0;
+    left: 4.5rem;
+
+}
+
+.icons{
+    width: 1.3rem;
+    height: 1.3rem;
+   color: var(--text-color-primary);
+    margin-bottom: 1.2rem;
+    margin-top: 0.3rem;
+    margin-left: 4.5rem;
+}
+
+.icons:hover{
+    color: var(--color-secundary);
+    cursor: pointer;
+}
+
+.icons-container{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 6rem;
+}
+
