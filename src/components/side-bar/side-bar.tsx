@@ -9,15 +9,15 @@ import {SiGmail} from "react-icons/si";
 export const SideBar: FC = (): JSX.Element => {
     return (
             <div className="side-bar-container">
-                <p className="side-bar-text">juliandevos2000@gmail.com</p>
+                <a className="side-bar-text" href="mailto:juliandevos2000@gmail.com">juliandevos2000@gmail.com</a>
                 <div className="side-bar-line-right"></div>
                 <div className="icons-container">
 
-                    <a>
+                    <a href="https://github.com/juliandevos">
                     <FiGithub className="icons"/>
                     </a>
 
-                    <a>
+                    <a href="https://www.linkedin.com/in/julian-de-vos-64b1aa1aa/">
                     <FiLinkedin className="icons"/>
                     </a>
 
@@ -25,15 +25,13 @@ export const SideBar: FC = (): JSX.Element => {
                     <RiDiscordLine className="icons"/>
                     </a>
 
-                    <a>
+                    <a href="https://www.instagram.com/juliandevos_/">
                         <FiInstagram className="icons"/>
                     </a>
 
-                    <a>
+                    <a href="mailto:juliandevos2000@gmail.com">
                         <SiGmail className="icons"/>
                     </a>
-
-                    {/*<a href="mailto:email@example.com">Send Email</a>*/}
 
                 </div>
                 <div className="side-bar-line-left"></div>

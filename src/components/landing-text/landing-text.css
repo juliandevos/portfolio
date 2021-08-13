@@ -1,0 +1,51 @@
+.landing-text-container{
+    width: 50%;
+    margin-left: 28.5rem;
+}
+
+.intro-text{
+    margin-top: 10rem;
+    color: var(--color-secundary);
+    font-size: 17px;
+    font-family: var(--font-mono);
+
+}
+
+.intro-name{
+    font-weight: 600;
+    margin-top: 1rem;
+    margin-left: -0.3rem;
+    color: #ccd6f6;
+    font-size: clamp(40px, 8vw, 70px);
+    font-family: var(--font-second);
+}
+
+.intro-header{
+    font-weight: 600;
+    margin-left: -0.3rem;
+    margin-top: 1rem;
+    color:  #8892b0;
+    font-size: clamp(40px, 8vw, 70px);
+    font-family: var(--font-second);
+    line-height: 0.9;
+
+}
+
+.intro-description{
+    font-size: 17px;
+    color:  #8892b0;;
+    font-family: var(--font-second);
+    margin-top: -2rem;
+}
+
+.intro-hogeschool{
+    text-decoration: none;
+    color: var(--color-secundary);
+
+}
+
+.intro-hogeschool:hover{
+    cursor: pointer;
+    color: white;
+
+}
